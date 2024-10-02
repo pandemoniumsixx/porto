@@ -6,20 +6,7 @@
           <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-             <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                   <a class="nav-link" href="{{ url('about') }}">About</a>
-                </li>
-                <li class="nav-item">
-                   <a class="nav-link" href="{{ url('skill') }}">Skills</a>
-                </li>
-                <li class="nav-item">
-                   <a class="nav-link" href="{{ url('portfolio') }}">Portfolio</a>
-                </li> 
-                <li class="nav-item">
-                   <a class="nav-link" href="{{ url('contact') }}">Contact Me</a>
-                </li>
-             </ul>
+            @include('layouts.components.menu')
           </div>
        </nav>
     </div>

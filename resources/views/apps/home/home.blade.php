@@ -41,7 +41,7 @@
                     </div>
                  </div>
               </div>
-              <div class="readmore_bt"><a href="#">Read More</a></div>
+              <div class="readmore_bt"><a href="skill">Read More</a></div>
            </div>
         </div>
      </div>
@@ -124,7 +124,7 @@
                  </div>
               </div>
            </div>
-           <div class="seemore_bt"><a href="#">See More</a></div>
+           <div class="seemore_bt"><a href="portfolio">See More</a></div>
         </div>
      </div>
      <!-- portfolio section end -->

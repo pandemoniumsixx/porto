@@ -6,6 +6,6 @@
       @include('layouts.components.navbar-image')
       @yield('content')
       @include('layouts.components.footer')
-      @include('layouts.components.script')
+      @include('layouts.components.scripts')
    </body>
 </html>

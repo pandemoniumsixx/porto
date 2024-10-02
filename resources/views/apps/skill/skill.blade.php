@@ -83,7 +83,6 @@
                </div>
             </div>
          </div>
-         <div class="readmore_bt"><a href="#">Read More</a></div>
       </div>
    </div>
 </div>
